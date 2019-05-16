@@ -1,0 +1,12 @@
+[Version]
+Version=9.1
+[Designs]
+pic17c42=.\PIC17C42\PIC17C42.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+pic17c42=1
